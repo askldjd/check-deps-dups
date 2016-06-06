@@ -1,0 +1,12 @@
+node_modules/
+docs/
+dist/
+coverage/
+*.log
+reports/
+*.tar*
+*.sublime-workspace
+.sonar/
+*.orig
+*.swp
+*.bkp
