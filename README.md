@@ -11,6 +11,7 @@ A simple NPM script to detect all the duplicate modules in your node modules.
  npm i --save check-deps-dups
 
  ```
+ 
 1. Add a stage in the scripts property in your package.json
   ```js
   "scripts": {
